@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/navCars"
+            android:icon="@drawable/ic_car_multiple_black_48dp"
+            android:title="Carros" />
+    </group>
+
+    <item android:title="Sobre">
+        <menu>
+            <item android:id="@+id/navWho"
+                android:icon="@drawable/ic_alien_outline_black_48dp"
+                android:title="Quem?" />
+            <item android:id="@+id/navPrivacy"
+                android:icon="@drawable/ic_account_lock_outline_black_48dp"
+                android:title="Política de privacidade" />
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_menu">
+        <item android:id="@+id/navExit"
+            android:icon="@drawable/ic_exit_run_black_48dp"
+            android:title="Sair" />
+    </group>
+</menu>

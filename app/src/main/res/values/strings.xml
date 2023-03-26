@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="app_ok">OK</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_home">CarApp</string>
+    <string name="title_activity_register">Cadastre-se</string>
+    <string name="title_activity_car">Carros</string>
+    <string name="title_activity_about">Quem?</string>
+    <string name="title_activity_privacy">Política de privacidade</string>
+    <string name="title_activity_add_car">Novo veículo</string>
+    <string name="title_activity_car_detail">Detalhes do veículo</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+
+    <string name="login_name">carapp</string>
+    <string name="login_username">Email</string>
+    <string name="login_password">Senha</string>
+    <string name="login_enter">Entrar</string>
+    <string name="login_not_registered">Não tem uma conta ainda?</string>
+    <string name="login_register">Cadastre-se.</string>
+    <string name="login_copyright">© 2019 Gregory Perozzo</string>
+    <string name="login_copyright_all">Todos os direitos reservados.</string>
+    <string name="login_no_username">Por favor, informe o email</string>
+    <string name="login_no_password">Por favor, informe a senha</string>
+    <string name="login_no_auth">Email ou senha inválidos. Por favor, tente novamente.</string>
+    <string name="login_error">Não foi possível autenticar. Por favor, tente novamente.</string>
+    <string name="login_register_success">Usuário cadastrado com sucesso!</string>
+
+    <string name="register_header">Preencha os campos para realizar seu cadastro</string>
+    <string name="register_name">Nome</string>
+    <string name="register_email">Email</string>
+    <string name="register_confirm_password">Confirme a senha</string>
+    <string name="register_no_name">Por favor, informe um nome</string>
+    <string name="register_no_email">Por favor, informe um email</string>
+    <string name="register_no_password">Por favor, informe uma senha</string>
+    <string name="register_no_confirm">Por favor, confirme a senha</string>
+    <string name="register_confirm_wrong">A confirmação de senha é diferente da senha</string>
+    <string name="register_error">Não foi possível realizar o cadastro. Por favor, tente novamente.</string>
+
+    <string name="about_header">Sobre</string>
+    <string name="about_desc">Este projeto foi criado para a cadeira de Programação para Sistemas Móveis II da Uniftec Centro Universitário como trabalho de conclusão.</string>
+    <string name="about_desc_rights">© 2019 Gregory Perozzo. Todos os direitos reservados.</string>
+
+    <string name="privacy_header">Informações de segurança e usabilidade</string>
+    <string name="privacy_desc">Dezembro, 2019.\n\nGregory Perozzo (\'nós\' ou \'nosso\') opera o site e o aplicativo móvel CarApp (o \'Serviço\').\n\nEste documento informa sobre nossas políticas relativas à coleta, uso e divulgação de dados pessoais quando você usa nosso Serviço e as opções que você associou a esses dados.\n\nUsamos seus dados para fornecer e melhorar o Serviço. Ao usar o Serviço, você concorda com a coleta e uso de informações de acordo com esta política.\n\nColeta e Uso de Informações\n\nColetamos tipos diferentes de informações para várias finalidades para fornecer e melhorar nosso Serviço para você.\n\nTipos de dados coletado\n\nAo usar nosso Serviço, podemos solicitar que você nos forneça algumas informações pessoais identificáveis ​​que podem ser usadas para contatá-lo ou identificá-lo (\'Dados Pessoais\'). Informações pessoalmente identificáveis ​​podem incluir, mas não estão limitadas a:\n\n- Endereço de e-mail;\n- Primeiro nome e sobrenome;\n- Número de telefone;\n- Ednereço, Estado, Província/Bairro, CEP/Código Postal, Cidade;\n- Dados de uso.\n\nDados de uso\n\nTambém podemos coletar informações que seu navegador envia sempre que você visita nosso Serviço ou quando você acessa o Serviço por ou através de um dispositivo móvel (\'Dados de Uso\').\n\nEsses Dados de Uso podem incluir informações como o endereço IP do seu computador (por exemplo, endereço IP), tipo de navegador, versão do navegador, as páginas do nosso Serviço que você visita, a hora e data de sua visita, o tempo gasto nessas páginas identificadores de dispositivos e outros dados de diagnóstico.\n\nQuando você acessa o Serviço por ou através de um dispositivo móvel, esses Dados de uso podem incluir informações como o tipo de dispositivo móvel usado, o ID exclusivo do dispositivo móvel, o endereço IP do dispositivo móvel, o sistema operacional do celular, o tipo de navegador de Internet móvel que você usa, identificadores de dispositivo exclusivos e outros dados de diagnóstico.\n\nUso de dados\n\nGregory Perozzo usa os dados coletados para diversos fins:\n\n- Para fornecer e manter o serviço;\n- Para notificá-lo sobre alterações no nosso serviço;\n- Para permitir que você participe de recursos interativos de nosso Serivço ao optar por fazê-lo;\n- Para fornecer atendimento ao cliente e suporte;\n- Para fornecer análises ou informações valiosas para que possamos melhorar o Serviço;\n- Para monitorar o uso do Serviço;\n- Para detectar, prevenir e resolver problemas técnicos.\n\nTransferência de dados\n\nSuas informações, incluindo Dados Pessoais, podem ser transferidas para - e mantidas em - computadores localizados fora do seu estado, província, país ou outra jurisdição governamental, onde as leis de proteção de dados podem ser diferentes das da sua jurisdição.\n\nSe você estiver localizado fora do Brasil e optar por nos fornecer informações, observe que transferimos os dados, incluindo os Dados Pessoais, para o Brasil e os processamos lá.\n\nO seu consentimento para com esta Política de Privacidade, seguido pelo envio de tais informações, representa sua concordância com essa transferência.\n\nGregory Perozzo tomará todas as medidas razoavelmente necessárias para garantir que seus dados sejam tratados com segurança e de acordo com esta Política de Privacidade e nenhuma transferência de seus Dados Pessoais será realizada para uma organização ou país, a menos que haja controles adequados, incluindo a segurança de seus dados e outras informações pessoais.\n\nDivulgação de dados\n\nGregory Perozzo pode divulgar seus Dados Pessoais com base na crença de que tal ação é necessária para:\n\n- Para cumprir uma obrigação legal;\n- Para proteger e defender os direitos ou propriedade de Gregory Perozzo;\n- Para evitar ou investigar possíveis irregularidades relacionadas ao Serviço;\n- Para proteger a segurança pessoal dos usuários do Serviço ou do público;\n- Para proteger contra responsabilidade legal.\n\nSegurança de dados\n\nA segurança dos seus dados é importante para nós, mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro. Embora nos esforcemos para usar meios comercialmente aceitáveis ​​para proteger seus dados pessoais, não podemos garantir sua segurança absoluta.\n\nAlterações a esta política de privacidade\n\nPodemos atualizar nossa Política de Privacidade de tempos em tempos. Vamos notificá-lo de quaisquer alterações, publicando a nova Política de Privacidade nesta página.\n\nAvisaremos você por e-mail/aviso proeminente em nosso Serviço antes que a alteração entre em vigor e atualize a \'data efetiva\' na parte superior desta Política de Privacidade.\n\nRecomenda-se que você revise esta Política de Privacidade periodicamente para quaisquer alterações. Alterações a esta Política de Privacidade são eficazes quando são publicadas nesta página.\n</string>
+
+
+    <string name="car_header">Verifique os veículos cadastrados</string>
+    <string name="car_none">Nenhum veículo cadastrado.</string>
+    <string name="car_not_selected">Não foi possível selecionar o veículo. Por favor, tente novamente.</string>
+
+    <string name="car_add_header">Preencha os campos para cadastrar um novo veículo</string>
+    <string name="car_add_plate">Placa</string>
+    <string name="car_add_manufacturer">Marca</string>
+    <string name="car_add_model">Modelo</string>
+    <string name="car_add_color">Cor</string>
+    <string name="car_add_year">Ano</string>
+    <string name="car_add_no_plate">Por favor, informe uma placa</string>
+    <string name="car_add_no_model">Por favor, informe um modelo</string>
+    <string name="car_add_success">Veículo cadastrado com sucesso!</string>
+    <string name="car_add_error">Não foi possível realizar o cadastro. Por favor, tente novamente.</string>
+    <string name="car_add_load_data_error">Não foi possível carregar os dados. Por favor, tente novamente.</string>
+
+    <string name="car_detail_header">Verifique os detalhes do veículo</string>
+    <string name="car_detail_id">Id</string>
+    <string name="car_detail_plate">Placa</string>
+    <string name="car_detail_manufacturer">Marca</string>
+    <string name="car_detail_model">Modelo</string>
+    <string name="car_detail_color">Cor</string>
+    <string name="car_detail_year">Ano</string>
+    <string name="car_detail_not_loaded">Não foi possível carregar o veículo. Por favor, tente novamente.</string>
+</resources>
